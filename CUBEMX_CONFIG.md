@@ -1,4 +1,4 @@
-# TIM_PWM_LIGHT — CubeMX 配置
+# PWM_BREATH_LIGHT — CubeMX 配置
 
 芯片：STM32F103C8T6。当前值依据 `TIM_PWM_LIGHT.ioc`，并核对初始化代码。
 
